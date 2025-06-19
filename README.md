@@ -1,9 +1,9 @@
-After model training and evaluation, a complete **PCOD Risk Analysis Report** is auto-generated in PDF format.
+After model training and evaluation, this project auto-generates a **PCOD Risk Prediction PDF Report**.
 
-📥 [Click here to view/download the sample report](pcod_analysis_report.pdf)
+📥 **[Download the report here](https://github.com/Akanshasachdeva04/PCOD-Predictor-With-Python/raw/main/pcod_analysis_report.pdf)**
 
 The report includes:
 - ✅ Accuracy Score
 - ✅ Classification Report
 - ✅ Confusion Matrix
-- ✅ Heatmap & EDA Plots
+- 📊 Heatmap, BMI, Cycle, and Diagnosis Plots
