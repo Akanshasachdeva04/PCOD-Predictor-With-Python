@@ -1,6 +1,6 @@
 After model training and evaluation, this project auto-generates a **PCOD Risk Prediction PDF Report**.
 
-📥 **[Download the report here]([https://github.com/Akanshasachdeva04/PCOD-Predictor-With-Python/raw/main/pcod_analysis_report.pdf](http://localhost:8888/edit/pcod_analysis_report.pdf))**
+📥 **[Download the report here](http://localhost:8888/edit/pcod_analysis_report.pdf)**
 
 The report includes:
 - ✅ Accuracy Score
